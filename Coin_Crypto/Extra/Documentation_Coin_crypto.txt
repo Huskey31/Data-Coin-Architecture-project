@@ -1,0 +1,14 @@
+Project: Extract Crypto currency coins and clean columns and transform then load to mini data warehouse (PostgreSQL).I Had this process automated. Next I Created code that will pull coins from mini data warehouse then create a scatter plot with updated data this process is also automated but through different script. there is a ten second delay between scripts acting as a buffer. The graph is then saved to separate folder that saves all previous graphs. This process needs to be successful for 12 hours and needs to run every hour first test was ran manually which was at 17:12pm
+
+1. 1st Test successful, done manually next test 18:05
+2. 2nd Test successful, Automated, next test 19:05
+3. 3rd Test successful, Automated, next test 20:05
+4. 4th Test successful, Automated, next test 21:05
+5. 5th Test successful, Automated, next test 22:05 
+6. 6th Test successful, Automated, next test 23:05
+7. 7th Test successful, Automated, next test 00:05
+8. 8th Test successful, Automated, next test 01:05
+8. 9th Test successful, Automated, next test 02:05
+8. 10th Test successful, Automated, next test 03:05
+8. 11th Test successful, Automated, next test 04:05
+8. 12th Test successful, Automated, next test 05:05

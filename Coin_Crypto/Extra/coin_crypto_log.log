@@ -1,0 +1,104 @@
+2025-12-27 17:12:34,435-INFO-Starting data extraction from CoinGecko API
+2025-12-27 17:12:35,174-INFO-Data extraction completed successfully
+2025-12-27 17:12:35,174-INFO-Transforming data into DataFrame
+2025-12-27 17:12:35,176-INFO-Data transformation completed successfully
+2025-12-27 17:12:35,176-INFO-Loading data into PostgreSQL database
+2025-12-27 17:12:35,320-INFO-Data loaded to database successfully
+2025-12-27 17:12:42,544-INFO-Starting the Coin Chart Pipeline
+2025-12-27 17:12:42,931-INFO-Coin chart successfully loaded
+2025-12-27 18:05:02,255-INFO-Starting data extraction from CoinGecko API
+2025-12-27 18:05:03,480-INFO-Data extraction completed successfully
+2025-12-27 18:05:03,480-INFO-Transforming data into DataFrame
+2025-12-27 18:05:03,485-INFO-Data transformation completed successfully
+2025-12-27 18:05:03,485-INFO-Loading data into PostgreSQL database
+2025-12-27 18:05:03,574-INFO-Data loaded to database successfully
+2025-12-27 18:05:12,569-INFO-Starting the Coin Chart Pipeline
+2025-12-27 18:05:12,956-INFO-Coin chart successfully loaded
+2025-12-27 19:05:02,298-INFO-Starting data extraction from CoinGecko API
+2025-12-27 19:05:04,509-INFO-Data extraction completed successfully
+2025-12-27 19:05:04,509-INFO-Transforming data into DataFrame
+2025-12-27 19:05:04,511-INFO-Data transformation completed successfully
+2025-12-27 19:05:04,511-INFO-Loading data into PostgreSQL database
+2025-12-27 19:05:04,711-INFO-Data loaded to database successfully
+2025-12-27 19:05:12,562-INFO-Starting the Coin Chart Pipeline
+2025-12-27 19:05:12,955-INFO-Coin chart successfully loaded
+2025-12-27 20:05:02,231-INFO-Starting data extraction from CoinGecko API
+2025-12-27 20:05:07,053-INFO-Data extraction completed successfully
+2025-12-27 20:05:07,053-INFO-Transforming data into DataFrame
+2025-12-27 20:05:07,055-INFO-Data transformation completed successfully
+2025-12-27 20:05:07,055-INFO-Loading data into PostgreSQL database
+2025-12-27 20:05:07,145-INFO-Data loaded to database successfully
+2025-12-27 20:05:12,590-INFO-Starting the Coin Chart Pipeline
+2025-12-27 20:05:12,975-INFO-Coin chart successfully loaded
+2025-12-27 21:05:02,311-INFO-Starting data extraction from CoinGecko API
+2025-12-27 21:05:03,242-INFO-Data extraction completed successfully
+2025-12-27 21:05:03,242-INFO-Transforming data into DataFrame
+2025-12-27 21:05:03,244-INFO-Data transformation completed successfully
+2025-12-27 21:05:03,244-INFO-Loading data into PostgreSQL database
+2025-12-27 21:05:03,335-INFO-Data loaded to database successfully
+2025-12-27 21:05:12,978-INFO-Starting the Coin Chart Pipeline
+2025-12-27 21:05:13,380-INFO-Coin chart successfully loaded
+2025-12-27 22:05:02,609-INFO-Starting data extraction from CoinGecko API
+2025-12-27 22:05:03,441-INFO-Data extraction completed successfully
+2025-12-27 22:05:03,441-INFO-Transforming data into DataFrame
+2025-12-27 22:05:03,444-INFO-Data transformation completed successfully
+2025-12-27 22:05:03,444-INFO-Loading data into PostgreSQL database
+2025-12-27 22:05:03,543-INFO-Data loaded to database successfully
+2025-12-27 22:05:13,284-INFO-Starting the Coin Chart Pipeline
+2025-12-27 22:05:13,923-INFO-Coin chart successfully loaded
+2025-12-27 23:05:02,514-INFO-Starting data extraction from CoinGecko API
+2025-12-27 23:05:03,423-INFO-Data extraction completed successfully
+2025-12-27 23:05:03,423-INFO-Transforming data into DataFrame
+2025-12-27 23:05:03,425-INFO-Data transformation completed successfully
+2025-12-27 23:05:03,425-INFO-Loading data into PostgreSQL database
+2025-12-27 23:05:03,523-INFO-Data loaded to database successfully
+2025-12-27 23:05:13,171-INFO-Starting the Coin Chart Pipeline
+2025-12-27 23:05:13,663-INFO-Coin chart successfully loaded
+2025-12-28 00:05:02,441-INFO-Starting data extraction from CoinGecko API
+2025-12-28 00:05:03,192-INFO-Data extraction completed successfully
+2025-12-28 00:05:03,192-INFO-Transforming data into DataFrame
+2025-12-28 00:05:03,194-INFO-Data transformation completed successfully
+2025-12-28 00:05:03,194-INFO-Loading data into PostgreSQL database
+2025-12-28 00:05:03,279-INFO-Data loaded to database successfully
+2025-12-28 00:05:12,978-INFO-Starting the Coin Chart Pipeline
+2025-12-28 00:05:13,370-INFO-Coin chart successfully loaded
+2025-12-28 01:05:02,364-INFO-Starting data extraction from CoinGecko API
+2025-12-28 01:05:03,498-INFO-Data extraction completed successfully
+2025-12-28 01:05:03,499-INFO-Transforming data into DataFrame
+2025-12-28 01:05:03,501-INFO-Data transformation completed successfully
+2025-12-28 01:05:03,501-INFO-Loading data into PostgreSQL database
+2025-12-28 01:05:03,587-INFO-Data loaded to database successfully
+2025-12-28 01:05:12,973-INFO-Starting the Coin Chart Pipeline
+2025-12-28 01:05:13,361-INFO-Coin chart successfully loaded
+2025-12-28 02:05:02,404-INFO-Starting data extraction from CoinGecko API
+2025-12-28 02:05:03,143-INFO-Data extraction completed successfully
+2025-12-28 02:05:03,143-INFO-Transforming data into DataFrame
+2025-12-28 02:05:03,146-INFO-Data transformation completed successfully
+2025-12-28 02:05:03,146-INFO-Loading data into PostgreSQL database
+2025-12-28 02:05:03,237-INFO-Data loaded to database successfully
+2025-12-28 02:05:12,984-INFO-Starting the Coin Chart Pipeline
+2025-12-28 02:05:13,407-INFO-Coin chart successfully loaded
+2025-12-28 03:05:02,468-INFO-Starting data extraction from CoinGecko API
+2025-12-28 03:05:04,230-INFO-Data extraction completed successfully
+2025-12-28 03:05:04,230-INFO-Transforming data into DataFrame
+2025-12-28 03:05:04,239-INFO-Data transformation completed successfully
+2025-12-28 03:05:04,239-INFO-Loading data into PostgreSQL database
+2025-12-28 03:05:04,334-INFO-Data loaded to database successfully
+2025-12-28 03:05:13,087-INFO-Starting the Coin Chart Pipeline
+2025-12-28 03:05:13,533-INFO-Coin chart successfully loaded
+2025-12-28 04:05:02,376-INFO-Starting data extraction from CoinGecko API
+2025-12-28 04:05:06,365-INFO-Data extraction completed successfully
+2025-12-28 04:05:06,366-INFO-Transforming data into DataFrame
+2025-12-28 04:05:06,372-INFO-Data transformation completed successfully
+2025-12-28 04:05:06,373-INFO-Loading data into PostgreSQL database
+2025-12-28 04:05:06,471-INFO-Data loaded to database successfully
+2025-12-28 04:05:13,295-INFO-Starting the Coin Chart Pipeline
+2025-12-28 04:05:13,766-INFO-Coin chart successfully loaded
+2025-12-28 05:05:02,331-INFO-Starting data extraction from CoinGecko API
+2025-12-28 05:05:03,122-INFO-Data extraction completed successfully
+2025-12-28 05:05:03,123-INFO-Transforming data into DataFrame
+2025-12-28 05:05:03,138-INFO-Data transformation completed successfully
+2025-12-28 05:05:03,139-INFO-Loading data into PostgreSQL database
+2025-12-28 05:05:03,333-INFO-Data loaded to database successfully
+2025-12-28 05:07:08,780-INFO-Starting the Coin Chart Pipeline
+2025-12-28 05:07:09,193-INFO-Coin chart successfully loaded
